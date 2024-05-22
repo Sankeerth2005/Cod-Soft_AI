@@ -2,8 +2,6 @@
 <br>Author :- Anchuru Sai Sankeerth </br>
 <br>Topic :- Artificial Intelligence</br>
 
-Certainly! Here is the reworded text:
-
 Welcome to the CodSoft Virtual Internship on Artificial Intelligence. This internship program has been carefully designed to offer participants practical knowledge and hands-on experience in the artificial intelligence (AI) field. Whether you are new to AI or an experienced enthusiast, this internship provides a structured learning environment to enhance your skills and deepen your understanding of AI concepts and applications.
 
 About CodSoft:
@@ -16,3 +14,10 @@ In this virtual internship program, participants will have the chance to:
 - Collaborate with industry experts and mentors to enhance learning and problem-solving skills.
 - Explore different AI tools, frameworks, and libraries used in modern software development.
 - Build a strong foundation in AI principles, algorithms, and techniques.
+
+Projects Developed:-
+PROJECT 1: CHATBOT WITH RULE-BASED RESPONSES
+PROJECT 2: TIC-TAC-TOE AI
+PROJECT 3: RECOMMENDATION SYSTEM
+PROJECT 4: FACE DETECTION AND RECOGNITION
+
