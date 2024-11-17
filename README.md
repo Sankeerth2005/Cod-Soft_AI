@@ -1,4 +1,3 @@
-# Cod-Soft_AI
 ## Author :- Anchuru Sai Sankeerth </br>
 ## Topic :- Artificial Intelligence</br>
 
